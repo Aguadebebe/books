@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "Tricky!",
+      "id": 1
+    },
+    {
+      "title": "A Desk",
+      "id": 2
+    },
+    {
+      "title": "WaterFalls",
+      "id": 3
+    },
+    {
+      "title": "StrawBerrieS",
+      "id": 4
+    },
+    {
+      "title": "NPM start json",
+      "id": 5
+    },
+    {
+      "title": "Clever Castle",
+      "id": 6
+    }
+  ]
+}
